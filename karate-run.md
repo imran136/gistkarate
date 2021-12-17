@@ -8,5 +8,5 @@ Here are the instructions to run standalone
 * Download following file into the same directory:
   * gistapitest.feature
 * Open console in directory, and use the following command to run the tests
-    java -jar karate.jar gistapitest.feature
+  * java -jar karate.jar gistapitest.feature
 * Open target/karate-reports folder and open karate-summary.html in browser to check the test report
